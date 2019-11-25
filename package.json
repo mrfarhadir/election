@@ -1,0 +1,26 @@
+{
+  "name": "selection",
+  "version": "0.0.0",
+  "description": "Easly select any portion of your array",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrfarhadir/selection.git"
+  },
+  "keywords": [
+    "select",
+    "combination",
+    "permutation",
+    "math",
+    "probabality"
+  ],
+  "author": "Farhad Mehryari <info@mrfarhad.ir>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrfarhadir/selection/issues"
+  },
+  "homepage": "https://github.com/mrfarhadir/selection#readme"
+}
