@@ -14,12 +14,12 @@ Election class accepts 5 parameters.
 we have array of people, let's select two of them without repeative item.
 election object has a selected property which is elected items
 ```javascript
-let arr = ['farhad', 'Negar', 'Ali', 'Negin', 'Reza', 'Hasan', 'Maryam', 'Sara'];
+let arr = ['Farhad', 'Negar', 'Ali', 'Negin', 'Reza', 'Hasan', 'Maryam', 'Sara'];
 const election =  new  Election(arr, 2, false)
 console.log(election)
 /*
 Election {
-source: [ 'Ali', 'Negin', 'Reza', 'Hasan', 'Maryam', 'Sara' ],
+source: [ 'Farhad', 'Ali', 'Negin', 'Reza', 'Hasan', 'Maryam', 'Sara' ],
 count: 2,
 repetitive: false,
 weight: null,
